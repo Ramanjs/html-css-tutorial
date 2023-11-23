@@ -452,11 +452,11 @@ divs are block level elements while spans are inline level elements by default
 
 ## Exercises
 
-- [css-methods]()
-- [class-id-selectors]()
-- [group-selectors]()
-- [chain-selectors]()
-- [cascade-fix]()
+- [css-methods](https://github.com/Ramanjs/html-css-tutorial/blob/main/css-exercises/01-css-methods/README.md)
+- [class-id-selectors](https://github.com/Ramanjs/html-css-tutorial/blob/main/css-exercises/02-class-id-selectors/README.md)
+- [group-selectors](https://github.com/Ramanjs/html-css-tutorial/blob/main/css-exercises/03-grouping-selectors/README.md)
+- [chaining-selectors](https://github.com/Ramanjs/html-css-tutorial/blob/main/css-exercises/04-chaining-selectors/README.mdj)
+- [cascade-fix](https://github.com/Ramanjs/html-css-tutorial/blob/main/css-exercises/05-cascade-fix/README.md)
 
 ---
 
