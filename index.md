@@ -450,6 +450,16 @@ divs are block level elements while spans are inline level elements by default
 
 ---
 
+## Exercises
+
+- [css-methods]()
+- [class-id-selectors]()
+- [group-selectors]()
+- [chain-selectors]()
+- [cascade-fix]()
+
+---
+
 ## Project
 
 https://www.dagusa.com
